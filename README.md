@@ -1,3 +1,3 @@
 # Snake Game: Java Edition
 
-Welcome to my reconstruction of Snake completely coded in Java using Swing. In order to run the game, install the content files and head to "SnakeGame.java". Please ensure all files are in the same "Snake" package folder.
+Welcome to my reconstruction of Snake completely coded in Java using Swing. Still working on how to allow users to play the game on their desktops as well. The "main" method is in "SnakeGame.java", please reach out if you have a solution.
