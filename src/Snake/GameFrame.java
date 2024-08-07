@@ -17,22 +17,22 @@ public class GameFrame extends JFrame {
     private static final int SCREEN_WIDTH = 600;
     private static final int SCREEN_HEIGHT = 600;
 
-    protected GameFrame() {
+    public GameFrame() {
         this.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
         this.setTitle("Snake");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setResizable(false);
-        this.setVisible(true);
         this.setLocationRelativeTo(null);
 
         initializeMenu();
+        this.setVisible(true);
     }
 
-    protected static void setRunningGame(boolean runningGame) {
+    public static void setRunningGame(boolean runningGame) {
         GameFrame.runningGame = runningGame;
     }
 
-    protected static void updateHighScore(int score) {
+    public static void updateHighScore(int score) {
         if (score > highScore) {
             highScore = score;
             titlePanel.repaint();
