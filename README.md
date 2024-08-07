@@ -6,4 +6,4 @@ The main method is in "Main.java"
 
 Here's some gameplay!
 
-![](https://github.com/seangentree/nake-Java-Swing-Edition/blob/master/gameplay_gif/snake_gameplay.gif)
+![](https://github.com/seangentree/Snake-Java-Swing-Edition/blob/master/gameplay_gif/snake_gameplay.gif)
