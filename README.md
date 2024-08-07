@@ -4,4 +4,4 @@ Welcome to my reconstruction of Snake completely coded in Java using Swing. This
 
 Still working on how to allow users to play the game on their desktops as well in the IDEs. The "main" method is in "SnakeGame.java", please reach out if you have a solution.
 
-![]https://github.com/seangentree/SnakeGame.java/blob/master/gameplay_gif/snake_gameplay.gif
+![](https://github.com/seangentree/SnakeGame.java/blob/master/gameplay_gif/snake_gameplay.gif)
